@@ -1,0 +1,13 @@
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\obj\Debug\netcoreapp3.1\Ignateva_Exzam.csprojAssemblyReference.cache
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\obj\Debug\netcoreapp3.1\Ignateva_Exzam.AssemblyInfoInputs.cache
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\obj\Debug\netcoreapp3.1\Ignateva_Exzam.AssemblyInfo.cs
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\obj\Debug\netcoreapp3.1\Ignateva_Exzam.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\bin\Debug\netcoreapp3.1\Ignateva_Exzam.exe
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\bin\Debug\netcoreapp3.1\Ignateva_Exzam.deps.json
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\bin\Debug\netcoreapp3.1\Ignateva_Exzam.runtimeconfig.json
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\bin\Debug\netcoreapp3.1\Ignateva_Exzam.runtimeconfig.dev.json
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\bin\Debug\netcoreapp3.1\Ignateva_Exzam.dll
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\bin\Debug\netcoreapp3.1\Ignateva_Exzam.pdb
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\obj\Debug\netcoreapp3.1\Ignateva_Exzam.dll
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\obj\Debug\netcoreapp3.1\Ignateva_Exzam.pdb
+D:\Users\stu-ipsp121\Desktop\Ignateva_Exzam\src\Ignateva_Exzam\obj\Debug\netcoreapp3.1\Ignateva_Exzam.genruntimeconfig.cache
